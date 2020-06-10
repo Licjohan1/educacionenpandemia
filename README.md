@@ -3,7 +3,7 @@
 ### Viviana Serrato & Johan Guerrero
 ___
 
-![Tomdado del Espectador](https://github.com/Licjohan1/educacionenpandemia/blob/master/XBWIRVH2FBDX7PUZCK2WPCCUMM.jpg)
+![Tomdado del Espectador](https://github.com/Licjohan1/educacionenpandemia/blob/master/CLASE.jpg)
 
 A lo largo del tiempo el mundo ha ido cambiando y con el transcurrir del mismo, la
 maneras del ser en relación a la sociedad, y también la manera cómo adquiere
