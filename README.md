@@ -23,6 +23,8 @@ un solo computador para todos los miembros, los recursos digitales en cada núcl
 familiar es diferente y esto afecta directamente el nivel de aprendizaje y
 participación del estudiante.
 
+![Tomdado de la web](https://github.com/Licjohan1/educacionenpandemia/blob/master/maestros.jpg)
+
 Contando con que todos los estudiantes tengan una situación ideal en cuanto a
 recursos digitales,  es necesario que tanto el docente como el estudiante deben tener
 una alfabetización digital, en la cual se incluye el manejo del equipo, interactuar y
