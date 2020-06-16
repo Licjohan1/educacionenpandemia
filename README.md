@@ -5,9 +5,8 @@ ___
 La gestión sobre la pandemia del COVID-19 ha restringido de manera absoluta la vida social en Colombia, por tanto, no hay lugar para los
 encuentros presenciales en ninguna institución educativa del país. Aproximadamente 9,8 millones de estudiantes fueron enviado a sus
 casas. 
-___
-
 ![Tomdado del Espectador](https://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/CLASE.jpg) 
+___
 
 A lo largo del tiempo el mundo ha ido cambiando y con el transcurrir del mismo, la
 maneras del ser en relación a la sociedad, y también la manera cómo adquiere
