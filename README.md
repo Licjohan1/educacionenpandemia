@@ -23,14 +23,14 @@ un solo computador para todos los miembros, los recursos digitales en cada núcl
 familiar es diferente y esto afecta directamente el nivel de aprendizaje y
 participación del estudiante.
 
-![Tomdado de la web](https://github.com/Licjohan1/educacionenpandemia/blob/master/maestros.jpg)
+![Tomdado de la web](https://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/maestros.jpg)
 
 Contando con que todos los estudiantes tengan una situación ideal en cuanto a
 recursos digitales,  es necesario que tanto el docente como el estudiante deben tener
 una alfabetización digital, en la cual se incluye el manejo del equipo, interactuar y
 comprender los diferentes formatos en los que se encuentra la información, como
 medios audiovisuales, pues internet no solo cuenta con información escrita (pdf,
-libros digitales), sino también con imágenes (presentaciones), audios (podcast),
+libros digitales), sino también con imághttps://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/maestros.jpgenes (presentaciones), audios (podcast),
 videos(animación de procesos y modelos) y plataformas interactivas (información de
 páginas web y redes sociales). 
 
