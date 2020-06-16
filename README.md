@@ -14,8 +14,8 @@ maneras del ser en relación a la sociedad, y también la manera cómo adquiere
 conocimiento, es por esto que es pertinente conocer cómo en tiempos de pandemia se
 accede al conocimiento, que tan amigables son los canales de comunicación y que tanto
 acceso a los mismos tiene realmente el estudiante. 
-> Los jóvenes que estudian no pueden ser vistos solo como alumnos, sino que la escuela y los docentes deben considerarlos a la vez como jóvenes y atender a sus
-experiencias y los significados que movilizan en sus aprendizajes” [Weiss, 2012a; Hernández, 2008](https://www.redalyc.org/pdf/140/14025774016.pdf)
+> Los jóvenes que estudian no pueden ser vistos solo como alumnos, sino que la escuela y los docentes deben considerarlos a la vez como
+jóvenes y atender a sus experiencias y los significados que movilizan en sus aprendizajes” [Weiss, 2012a; Hernández, 2008 (https://www.redalyc.org/pdf/140/14025774016.pdf)
 
 Primordialmente se debe tener en cuenta que para esta forma de educación, se debe
 contar con ciertos recursos indispensables como lo son: un computador en buen estado
