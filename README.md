@@ -9,11 +9,24 @@ casas.
 ![Tomdado del Espectador](https://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/CLASE.jpg) 
 ___
 
-A lo largo del tiempo el mundo ha ido cambiando y con el transcurrir del mismo, la
-maneras del ser en relación a la sociedad, y también la manera cómo adquiere
-conocimiento, es por esto que es pertinente conocer cómo en tiempos de pandemia se
-accede al conocimiento, que tan amigables son los canales de comunicación y que tanto
-acceso a los mismos tiene realmente el estudiante. 
+El aparato educativo nacional estaba abocado a un complejo y difícil proceso de adaptación sincrónico y asincrónico a través de la
+virtualidad -en los pocos lugares donde ello es posible-, para el que ningún miembro de la comunidad escolar colombiana, ni su
+infraestructura, estaban preparados. Abismales problemas y contradicciones estructurales del sistema se hicieron explícitos y sumados a
+la inoperatividad institucional, pusieron en tensión el proceso educativo entero, sus propósitos, su funcionamiento real y el
+relacionamiento entre sus partes.
+
+Como señala el pedagogo colombiano Julián De Zubiría “en educación, tenemos los ojos vendados desde hace mucho tiempo, porque no
+garantizamos pertinencia, contextualización, equidad, ni calidad” [(De Zubiría, 2020)](https://www.semana.com/opinion/articulo/la-educacion-en-tiempos-de-cuarentena-columna-de-julian-de-zubiria/661969), es decir, no se trata de que la pandemia y las
+medidas para su gestión hayan puesto en jaque al sistema, este ya estaba contra las cuerdas. La cuarentena, el aislamiento
+social y el consecutivo cierre de las instituciones educativas a nivel nacional, dejaron al descubierto y en evidencia los vacíos e
+inconsistencias históricas y estructurales que imposibilitan el pleno desenvolvimiento y la contundencia del aparato escolar en
+Colombia. Y esto, no es otra cosa que reconocer los abismos educativos que se reproducen en un país que yace en la carencia absoluta yel
+analfabetismo, en los anchos senderos del país rural, y se empunta en la basta opulencia material y la capacidad tecnológica y digital,
+de las familias adineradas asentadas en los condominios y los sectores exclusivos de las grandes capitales del país.
+
+A lo largo del tiempo el mundo ha ido cambiando y con el transcurrir del mismo, la maneras del ser en relación a la sociedad, y también
+la manera cómo adquiere conocimiento, es por esto que es pertinente conocer cómo en tiempos de pandemia se accede al conocimiento, que tan amigables son los canales de comunicación y que tanto acceso a los mismos tiene realmente el estudiante. 
+
 > Los jóvenes que estudian no pueden ser vistos solo como alumnos, sino que la escuela y los docentes deben considerarlos a la vez como
 jóvenes y atender a sus experiencias y los significados que movilizan en sus aprendizajes” [Weiss, 2012a; Hernández, 2008 (https://www.redalyc.org/pdf/140/14025774016.pdf)
 
