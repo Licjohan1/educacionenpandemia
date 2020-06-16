@@ -1,6 +1,6 @@
-# **El aprendizaje en tiempos de pandemia**
+# **La escuela en tiempos de pandemia**
 ## Análisis sobre el aprendizaje en la escuela colombiana  
-### Viviana Serrato & Johan Guerrero
+##### Viviana Serrato & Johan Guerrero
 ___
 La gestión sobre la pandemia del COVID-19 ha restringido de manera absoluta la vida social en Colombia, por tanto, no hay lugar para los
 encuentros presenciales en ninguna institución educativa del país. Aproximadamente 9,8 millones de estudiantes fueron enviado a sus
