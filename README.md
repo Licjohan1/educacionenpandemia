@@ -35,13 +35,10 @@ de instituciones educativas, la reorganización de la vida escolar y los roles d
 2020)](https://www.elespectador.com/noticias/educacion/las-familias-acompanan-para-ayudar-pero-no-son-los-profesores-redpapaz-articulo916849/), la reconfiguración curricular, así como las exigencias sociales y político-administrativas sobre la educación de los
 niños,niñas, adolescentes y jóvenes, NNAJ.
 
-A lo largo del tiempo el mundo ha ido cambiando y con el transcurrir del mismo, la maneras del ser en relación a la sociedad, y también
-la manera cómo adquiere conocimiento, es por esto que es pertinente conocer cómo en tiempos de pandemia se accede al conocimiento, que tan amigables son los canales de comunicación y que tanto acceso a los mismos tiene realmente el estudiante. 
-
 ![Tomdado de la web](https://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/maestros.jpg)
 
 Contando con que todos los estudiantes tengan una situación ideal en cuanto a recursos digitales,  es necesario que tanto el docente
-como el estudiante deben tener una alfabetización digital, en la cual se incluye el manejo del equipo, interactuar y comprender los
+como el estudiante porten cierto grado de alfabetización digital, en la cual se incluye el manejo de los equipos, la interactuar y comprender los
 diferentes formatos en los que se encuentra la información, como medios audiovisuales, pues internet no solo cuenta con información
 escrita (pdf, libros digitales), sino también diapositivas (presentaciones), audios (podcast), videos(animación de procesos y modelos) y plataformas interactivas (información de páginas web y redes sociales). 
 
