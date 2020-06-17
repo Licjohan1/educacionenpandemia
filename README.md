@@ -35,7 +35,7 @@ de instituciones educativas, la reorganización de la vida escolar y los roles d
 2020)](https://www.elespectador.com/noticias/educacion/las-familias-acompanan-para-ayudar-pero-no-son-los-profesores-redpapaz-articulo916849/), la reconfiguración curricular, así como las exigencias sociales y político-administrativas sobre la educación de los
 niños,niñas, adolescentes y jóvenes, NNAJ.
 
-![Tomdado del Espectador](https://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/CLASE.jpg) 
+![Tomdado de El Heraldo](https://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/CLASE%203.jpg) 
 
 Contando con que todos los estudiantes tengan una situación ideal en cuanto a recursos digitales,  es necesario que tanto el docente
 como el estudiante porten cierto grado de alfabetización digital, en la cual se incluye el manejo de los equipos, la interactuar y comprender los
@@ -81,15 +81,17 @@ Sin desconocer la operabilidad de las clases en aulas convencionales como un com
 comunicación, la afectividad y orientación en la relación profesor-alumno; además de reducir la tasa de fracaso, mejorando el
 aprendizaje y la motivación que el estudiante tiene para aprender desde su interés y en busca de un sentido pragmático y crítico del
 conocimiento adquirido.
+
+!(https://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/CLASE%204.jpg)
 ___
 
 ##Bibliografía 
 
--De Zubiría, J. (2020, April 6). La educación en tiempos de cuarentena. Revista Semana. https://www.semana.com/opinion/articulo/la-educacion-en-tiempos-de-cuarentena-columna-de-julian-de-zubiria/661969
+* De Zubiría, J. (2020, April 6). La educación en tiempos de cuarentena. Revista Semana. https://www.semana.com/opinion/articulo/la-educacion-en-tiempos-de-cuarentena-columna-de-julian-de-zubiria/661969
 
--Ganduxé, M. (2018). ¿Qué es el e-learning? - eLearning Actual. https://elearningactual.com/e-learning-significado/
+* Ganduxé, M. (2018). ¿Qué es el e-learning? - eLearning Actual. https://elearningactual.com/e-learning-significado/
 Hernández, R. M., Orrego Cumpa, R., & Quiñones Rodríguez, S. (2018). Nuevas formas de aprender: La formación docente frente al uso de
 las TIC. Propósitos y Representaciones, 6(2), 671. https://doi.org/10.20511/pyr2018.v6n2.248
 
--Taborda, C. (2020, April 27). “Las familias acompañan para ayudar pero no son los profesores”: RedPapaz . El Espectador. https://www.elespectador.com/noticias/educacion/las-familias-acompanan-para-ayudar-pero-no-son-los-profesores-redpapaz-articulo-916849/
+* Taborda, C. (2020, April 27). “Las familias acompañan para ayudar pero no son los profesores”: RedPapaz . El Espectador. https://www.elespectador.com/noticias/educacion/las-familias-acompanan-para-ayudar-pero-no-son-los-profesores-redpapaz-articulo-916849/
 
