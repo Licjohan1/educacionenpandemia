@@ -24,9 +24,11 @@ Colombia. Y esto, no es otra cosa que reconocer los abismos educativos que se re
 analfabetismo, en los anchos senderos del país rural, y se empunta en la basta opulencia material y la capacidad tecnológica y digital,
 de las familias adineradas asentadas en los condominios y los sectores exclusivos de las grandes capitales del país.
 
-Según cifras del Laboratorio de Economía de la Educación (LEE) de la Universidad Javeriana de los más de 2’400.000 de estudiantes de
-colegios rurales del país, solo el 17 por ciento de ellos tiene acceso a Internet y computador, es decir, aproximadamente 408.000 niños
-[(El Tiempo, 14 de mayo de 2020)](https://www.eltiempo.com/vida/educacion/solo-el-17-de-los-estudiantes-rurales-tiene-internet-y-computador-495684) 
+> Según cifras del Laboratorio de Economía de la Educación (LEE) de la Universidad Javeriana de los más de 2’400.000 de estudiantes de
+colegios rurales del país, solo el 17 por ciento de ellos tiene acceso a Internet y computador, es decir, aproximadamente 408.000 niños.
+[(Chacón, 2020)](https://www.eltiempo.com/vida/educacion/solo-el-17-de-los-estudiantes-rurales-tiene-internet-y-computador-495684) 
+
+La adaptación virtual supone como fenómeno el inter relacionamiento de asuntos de naturaleza diversa: las condiciones materiales de las familias de estudiantes y maestros, así como su estado de salud mental y físico, la falta de capacitación y de recursos tecnológicos, comunicacionales y de conectividad para los docentes, los padres y los estudiantes, la carente infraestructura informática de la mayoría de instituciones educativas, la reorganización de la vida escolar y los roles de estudiantes, profesores y padres de familia (Taborda, 2020), la reconfiguración curricular, así como las exigencias sociales y político-administrativas sobre la educación de los niños, niñas, adolescentes y jóvenes, NNAJ.
 
 A lo largo del tiempo el mundo ha ido cambiando y con el transcurrir del mismo, la maneras del ser en relación a la sociedad, y también
 la manera cómo adquiere conocimiento, es por esto que es pertinente conocer cómo en tiempos de pandemia se accede al conocimiento, que tan amigables son los canales de comunicación y que tanto acceso a los mismos tiene realmente el estudiante. 
