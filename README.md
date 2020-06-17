@@ -28,7 +28,13 @@ de las familias adineradas asentadas en los condominios y los sectores exclusivo
 colegios rurales del país, solo el 17 por ciento de ellos tiene acceso a Internet y computador, es decir, aproximadamente 408.000 niños.
 [(Chacón, 2020)](https://www.eltiempo.com/vida/educacion/solo-el-17-de-los-estudiantes-rurales-tiene-internet-y-computador-495684) 
 
-La adaptación virtual supone como fenómeno el inter relacionamiento de asuntos de naturaleza diversa: las condiciones materiales de las familias de estudiantes y maestros, así como su estado de salud mental y físico, la falta de capacitación y de recursos tecnológicos, comunicacionales y de conectividad para los docentes, los padres y los estudiantes, la carente infraestructura informática de la mayoría de instituciones educativas, la reorganización de la vida escolar y los roles de estudiantes, profesores y padres de familia (Taborda, 2020), la reconfiguración curricular, así como las exigencias sociales y político-administrativas sobre la educación de los niños, niñas, adolescentes y jóvenes, NNAJ.
+La adaptación virtual supone como fenómeno el inter relacionamiento de asuntos de naturaleza diversa: las condiciones materiales de las
+familias de estudiantes y maestros, así como su estado de salud mental y físico, la falta de capacitación y de recursos tecnológicos,
+comunicacionales y de conectividad para los docentes, los padres y los estudiantes, la carente infraestructura informática de la mayoría
+de instituciones educativas, la reorganización de la vida escolar y los roles de estudiantes, profesores y padres de familia [(Taborda,
+2020)](https://www.elespectador.com/noticias/educacion/las-familias-acompanan-para-ayudar-pero-no-son-los-profesores-redpapaz-articulo
+916849/), la reconfiguración curricular, así como las exigencias sociales y político-administrativas sobre la educación de los niños,
+niñas, adolescentes y jóvenes, NNAJ.
 
 A lo largo del tiempo el mundo ha ido cambiando y con el transcurrir del mismo, la maneras del ser en relación a la sociedad, y también
 la manera cómo adquiere conocimiento, es por esto que es pertinente conocer cómo en tiempos de pandemia se accede al conocimiento, que tan amigables son los canales de comunicación y que tanto acceso a los mismos tiene realmente el estudiante. 
@@ -36,50 +42,26 @@ la manera cómo adquiere conocimiento, es por esto que es pertinente conocer có
 > Los jóvenes que estudian no pueden ser vistos solo como alumnos, sino que la escuela y los docentes deben considerarlos a la vez como
 jóvenes y atender a sus experiencias y los significados que movilizan en sus aprendizajes” [Weiss, 2012a; Hernández, 2008 (https://www.redalyc.org/pdf/140/14025774016.pdf)
 
-Primordialmente se debe tener en cuenta que para esta forma de educación, se debe
-contar con ciertos recursos indispensables como lo son: un computador en buen estado
-con todas sus partes y el acceso a internet. Pues se debe reconocer que no todos los
-estudiantes cuentan con un computador en su casa, diferente al que usan los padres
-para el trabajo. Todos los estudiantes tienen situaciones distintas, puede que en
-unacasa haya 3 computadores y celulares para cada miembro como en otra se cuenta con
-un solo computador para todos los miembros, los recursos digitales en cada núcleo
-familiar es diferente y esto afecta directamente el nivel de aprendizaje y
-participación del estudiante.
-
 ![Tomdado de la web](https://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/maestros.jpg)
 
-Contando con que todos los estudiantes tengan una situación ideal en cuanto a
-recursos digitales,  es necesario que tanto el docente como el estudiante deben tener
-una alfabetización digital, en la cual se incluye el manejo del equipo, interactuar y
-comprender los diferentes formatos en los que se encuentra la información, como
-medios audiovisuales, pues internet no solo cuenta con información escrita (pdf,
-libros digitales), sino también con imághttps://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/maestros.jpgenes (presentaciones), audios (podcast),
-videos(animación de procesos y modelos) y plataformas interactivas (información de
-páginas web y redes sociales). 
+Contando con que todos los estudiantes tengan una situación ideal en cuanto a recursos digitales,  es necesario que tanto el docente
+como el estudiante deben tener una alfabetización digital, en la cual se incluye el manejo del equipo, interactuar y comprender los
+diferentes formatos en los que se encuentra la información, como medios audiovisuales, pues internet no solo cuenta con información
+escrita (pdf, libros digitales), sino también diapositivas (presentaciones), audios (podcast), videos(animación de procesos y modelos) y plataformas interactivas (información de páginas web y redes sociales). 
 
-Al usar las TIC (tecnología de comunicación e información) en la educación, el
-docente debe asumir varios retos, uno de ellos es plantear un modelo de educación, en
-el cual el estudiante no solo almacene la información sino que realmente interactúe
-con ella, el modelo de pedagogía debe ser lo suficientemente didáctico para que el
-estudiante desarrolle un sentido de indagación o investigación, lo cual llevará
-también a que genere posturas críticas frente a la información, el educador tiene la
-responsabilidad y el compromiso de guiar al estudiante, aquí se genera un cambio en
-el rol en el docente, pues debe cambiar del modelo de educación tradicional 
-(magistral) donde él es el que provee la información y pasar a ser el guía de cómo
+Al usar las TIC (tecnología de comunicación e información) en la educación, el docente debe asumir varios retos, uno de ellos es
+plantear un modelo de educación, en el cual el estudiante no solo almacene la información sino que realmente interactúe con ella, el
+modelo de pedagogía debe ser lo suficientemente didáctico para que el estudiante desarrolle un sentido de indagación o investigación, lo
+cual llevará también a que genere posturas críticas frente a la información, el educador tiene la responsabilidad y el compromiso de
+guiar al estudiante, aquí se genera un cambio en el rol en el docente, pues debe cambiar del modelo de educación tradicional (magistral)
+donde él es el que provee la información y pasar a ser el guía de cómo explorar en un mundo tan basto como es internet. Así mismo el
+estudiante también asume un nuevo rol en el cual el estudiante ya no será oyente, espectador y lector pasivo sino que aporta activamente
+contenido a la clase, logrando así que el conocimiento sea generado de forma horizontal. 
 
-explorar en un mundo tan basto como es internet. Así mismo el estudiante también
-asume un nuevo rol en el cual el estudiante ya no será oyente, espectador y lector
-pasivo sino que aporta activamente contenido a la clase, logrando así que el
-conocimiento sea generado de forma horizontal. 
+El docente también debe conocer a mayor profundidad a sus estudiantes, para poder ayudarlos según su estilo de aprendizaje y percepción
+del mundo, pues a menudo la información que se encuentra navegando en la red puede ser falsa o mal interpretada,
+es indispensable que el maestro conozca con anterioridad los sitos web, plataformas o páginas que se utilizaran, para poder indicarle a
+sus estudiantes cómo se deben manejar la plataforma, la forma en que se encuentra la información, como descargarla, así mismo hay
+inmersos otros tipos de conocimientos como por ejemplo, cómo se debe citar un texto, los signos que se utilizan y cómo interpretarlos. 
 
-El docente también debe conocer a mayor profundidad a sus estudiantes, para poder
-ayudarlos según su estilo de aprendizaje y percepción del mundo, pues a menudo la
-información que se encuentra navegando en la red puede ser falsa o mal interpretada,
-es indispensable que el maestro conozca con anterioridad los sitos web, plataformas o
-páginas que se utilizaran, para poder indicarle a sus estudiantes cómo se deben
-manejar la plataforma, la forma en que se encuentra la información, como descargarla,
-así mismo hay inmersos otros tipos de conocimientos como por ejemplo, cómo se debe
-citar un texto, los signos que se utilizan y cómo interpretarlos. 
-
-Si el docente desarrolla un buen modelo educativo se aumentará el nivel de análisis,
-crítica, autonomía y participación en los estudiantes. 
+Los jóvenes que estudian no pueden ser vistos solo como alumnos, sino que la escuela y los docentes deben considerarlos a la vez como jóvenes y atender a sus experiencias y los significados que movilizan en sus aprendizajes” Weiss, 2012a; Hernández, 2008
