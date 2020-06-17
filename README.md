@@ -52,10 +52,32 @@ estudiante también asume un nuevo rol en el cual el estudiante ya no será oyen
 contenido a la clase, logrando así que el conocimiento sea generado de forma horizontal. 
 
 El docente también debe conocer a mayor profundidad a sus estudiantes, para poder ayudarlos según su estilo de aprendizaje y percepción
-del mundo, pues a menudo la información que se encuentra navegando en la red puede ser falsa o mal interpretada,
-es indispensable que el maestro conozca con anterioridad los sitos web, plataformas o páginas que se utilizaran, para poder indicarle a
-sus estudiantes cómo se deben manejar la plataforma, la forma en que se encuentra la información, como descargarla, así mismo hay
-inmersos otros tipos de conocimientos como por ejemplo, cómo se debe citar un texto, los signos que se utilizan y cómo interpretarlos. 
+del mundo, pues a menudo la información que se encuentra navegando en la red puede ser falsa o mal interpretada, es indispensable que el
+maestro conozca con anterioridad los sitos web, plataformas o páginas que se utilizaran, para poder indicarle a sus estudiantes cómo se
+deben manejar la plataforma, la forma en que se encuentra la información, como descargarla, así mismo, inmersos otros tipos de
+conocimientos como por ejemplo, cómo se debe citar un texto, los signos que se utilizan y cómo interpretarlos. 
 
-> Los jóvenes que estudian no pueden ser vistos solo como alumnos, sino que la escuela y los docentes deben considerarlos a la vez como
-jóvenes y atender a sus experiencias y los significados que movilizan en sus aprendizajes” [Weiss, 2012a; Hernández, 2008](https://www.redalyc.org/pdf/140/14025774016.pdf)
+El e-Learning es una modalidad que ofrece un formato flexible respecto al horario, la distancia y disponibilidad de las partes
+implicadas en el proceso de enseñanza-aprendizaje; personalizado en cuanto la implementación de herramientas, plataformas, y bases de
+datos en internet desde la una adecuada utilización y un moderado uso de los mismo, posibilitando así un aprendizaje y dialogo nutrido y
+constante.
+
+Todo proyecto de aula virtual se construye desde el “triángulo del e-Learning" [(Ganduxé, 2018)](https://elearningactual.com/e-learning-significado/), este consta de (I) tecnología: plataformas o entornos de aprendizaje virtual para desarrollar el curso, gestionar
+contenido y mantener la comunicación, (II) contenidos: materiales didácticos y recursos para el aprendizaje que puedan ser de múltiples
+formatos y, (III) acción docente: rol de transmisor de conocimiento, planificador de contenidos y actividades, orientador del alumno y
+dinamizador de conocimientos.
+
+El b-Learning se presenta entonces como un modelo de aprendizaje semipresencial, mixto, combinado e híbrido que busca articular y
+engranar las mejores cualidades de las modalidades presenciales y virtuales, comprendiendo la facilidad de la interacción, transmisión y
+organización del contenido, socialización y conocimiento de la presencialidad y, la flexibilidad de tiempo distancia y mayor flujo de
+información de las aulas virtuales, fuera de lo anteriormente mencionado. 
+
+Este se convierte en un proceso de mayor eficacia en el aprendizaje, aumentando la motivación, participación, responsabilidad,
+compromiso e implicancia del alumno. Permite en el alumno el control sobre el camino y ritmo de interacción con el contenido y el
+conocimiento, haciendo que sea un proceso escalable y funcional en diversidad de aulas donde se pueden presentar desigualdad en los
+procesos internos de aprendizaje de cada estudiante.
+
+Sin desconocer la operabilidad de las clases en aulas convencionales como un componente complementario en función de fortalecer la
+comunicación, la afectividad y orientación en la relación profesor-alumno; además de reducir la tasa de fracaso, mejorando el
+aprendizaje y la motivación que el estudiante tiene para aprender desde su interés y en busca de un sentido pragmático y crítico del
+conocimiento adquirido.
