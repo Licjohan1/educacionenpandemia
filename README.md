@@ -9,7 +9,7 @@ casas.
 ![Tomdado del Espectador](https://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/CLASE.jpg) 
 ___
 
-El aparato educativo nacional estaba abocado a un complejo y difícil proceso de adaptación sincrónico y asincrónico a través de la
+El aparato educativo nacional está abocado a un complejo y difícil proceso de adaptación sincrónico y asincrónico a través de la
 virtualidad -en los pocos lugares donde ello es posible-, para el que ningún miembro de la comunidad escolar colombiana, ni su
 infraestructura, estaban preparados. Abismales problemas y contradicciones estructurales del sistema se hicieron explícitos y sumados a
 la inoperatividad institucional, pusieron en tensión el proceso educativo entero, sus propósitos, su funcionamiento real y el
@@ -32,15 +32,11 @@ La adaptación virtual supone como fenómeno el inter relacionamiento de asuntos
 familias de estudiantes y maestros, así como su estado de salud mental y físico, la falta de capacitación y de recursos tecnológicos,
 comunicacionales y de conectividad para los docentes, los padres y los estudiantes, la carente infraestructura informática de la mayoría
 de instituciones educativas, la reorganización de la vida escolar y los roles de estudiantes, profesores y padres de familia [(Taborda,
-2020)](https://www.elespectador.com/noticias/educacion/las-familias-acompanan-para-ayudar-pero-no-son-los-profesores-redpapaz-articulo
-916849/), la reconfiguración curricular, así como las exigencias sociales y político-administrativas sobre la educación de los niños,
-niñas, adolescentes y jóvenes, NNAJ.
+2020)](https://www.elespectador.com/noticias/educacion/las-familias-acompanan-para-ayudar-pero-no-son-los-profesores-redpapaz-articulo916849/), la reconfiguración curricular, así como las exigencias sociales y político-administrativas sobre la educación de los
+niños,niñas, adolescentes y jóvenes, NNAJ.
 
 A lo largo del tiempo el mundo ha ido cambiando y con el transcurrir del mismo, la maneras del ser en relación a la sociedad, y también
 la manera cómo adquiere conocimiento, es por esto que es pertinente conocer cómo en tiempos de pandemia se accede al conocimiento, que tan amigables son los canales de comunicación y que tanto acceso a los mismos tiene realmente el estudiante. 
-
-> Los jóvenes que estudian no pueden ser vistos solo como alumnos, sino que la escuela y los docentes deben considerarlos a la vez como
-jóvenes y atender a sus experiencias y los significados que movilizan en sus aprendizajes” [Weiss, 2012a; Hernández, 2008 (https://www.redalyc.org/pdf/140/14025774016.pdf)
 
 ![Tomdado de la web](https://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/maestros.jpg)
 
@@ -64,4 +60,5 @@ es indispensable que el maestro conozca con anterioridad los sitos web, platafor
 sus estudiantes cómo se deben manejar la plataforma, la forma en que se encuentra la información, como descargarla, así mismo hay
 inmersos otros tipos de conocimientos como por ejemplo, cómo se debe citar un texto, los signos que se utilizan y cómo interpretarlos. 
 
-Los jóvenes que estudian no pueden ser vistos solo como alumnos, sino que la escuela y los docentes deben considerarlos a la vez como jóvenes y atender a sus experiencias y los significados que movilizan en sus aprendizajes” Weiss, 2012a; Hernández, 2008
+> Los jóvenes que estudian no pueden ser vistos solo como alumnos, sino que la escuela y los docentes deben considerarlos a la vez como
+jóvenes y atender a sus experiencias y los significados que movilizan en sus aprendizajes” [Weiss, 2012a; Hernández, 2008](https://www.redalyc.org/pdf/140/14025774016.pdf)
