@@ -83,8 +83,8 @@ aprendizaje y la motivación que el estudiante tiene para aprender desde su inte
 conocimiento adquirido.
 
 ![](https://raw.githubusercontent.com/Licjohan1/educacionenpandemia/master/CLASE%204.jpg)
-___
 
+___
 ## Bibliografía 
 
 * De Zubiría, J. (2020, April 6). La educación en tiempos de cuarentena. Revista Semana. https://www.semana.com/opinion/articulo/la-educacion-en-tiempos-de-cuarentena-columna-de-julian-de-zubiria/661969
