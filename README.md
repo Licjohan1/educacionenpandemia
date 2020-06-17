@@ -87,13 +87,13 @@ conocimiento adquirido.
 ___
 ## Bibliografía 
 
-* De Zubiría, J. (2020, April 6). La educación en tiempos de cuarentena. Revista Semana. (https://www.semana.com/opinion/articulo/la-educacion-en-tiempos-de-cuarentena-columna-de-julian-de-zubiria/661969)
+* [De Zubiría, J. (2020, April 6). La educación en tiempos de cuarentena. Revista Semana. https://www.semana.com/opinion/articulo/la-educacion-en-tiempos-de-cuarentena-columna-de-julian-de-zubiria/661969](https://www.semana.com/opinion/articulo/la-educacion-en-tiempos-de-cuarentena-columna-de-julian-de-zubiria/661969)
 
-* Ganduxé, M. (2018). ¿Qué es el e-learning? - eLearning Actual. https://elearningactual.com/e-learning-significado/
+* [Ganduxé, M. (2018). ¿Qué es el e-learning? - eLearning Actual. https://elearningactual.com/e-learning-significado/
 Hernández, R. M., Orrego Cumpa, R., & Quiñones Rodríguez, S. (2018). Nuevas formas de aprender: La formación docente frente al uso de
-las TIC. Propósitos y Representaciones, 6(2), 671. (https://doi.org/10.20511/pyr2018.v6n2.248)
+las TIC. Propósitos y Representaciones, 6(2), 671. https://doi.org/10.20511/pyr2018.v6n2.248](https://doi.org/10.20511/pyr2018.v6n2.248)
 
-* Chacón, M. (2020, May 14). Solo el 17 % de los estudiantes rurales tiene Internet y computador. El Tiempo. (https://www.eltiempo.com/vida/educacion/solo-el-17-de-los-estudiantes-rurales-tiene-internet-y-computador-495684) 
+* [Chacón, M. (2020, May 14). Solo el 17 % de los estudiantes rurales tiene Internet y computador. El Tiempo. https://www.eltiempo.com/vida/educacion/solo-el-17-de-los-estudiantes-rurales-tiene-internet-y-computador-495684](https://www.eltiempo.com/vida/educacion/solo-el-17-de-los-estudiantes-rurales-tiene-internet-y-computador-495684) 
 
-* Taborda, C. (2020, April 27). “Las familias acompañan para ayudar pero no son los profesores”: RedPapaz . El Espectador. (https://www.elespectador.com/noticias/educacion/las-familias-acompanan-para-ayudar-pero-no-son-los-profesores-redpapaz-articulo-916849/)
+* [Taborda, C. (2020, April 27). “Las familias acompañan para ayudar pero no son los profesores”: RedPapaz . El Espectador. https://www.elespectador.com/noticias/educacion/las-familias-acompanan-para-ayudar-pero-no-son-los-profesores-redpapaz-articulo-916849/](https://www.elespectador.com/noticias/educacion/las-familias-acompanan-para-ayudar-pero-no-son-los-profesores-redpapaz-articulo-916849/)
 
